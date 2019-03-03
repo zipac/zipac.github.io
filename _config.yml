@@ -1,0 +1,17 @@
+# Jekyll Resume Theme
+
+# Site settings
+title: Jekyll Resume
+email: email@domain.com
+description: Jekyll Resume is a mega simple resume theme for Jekyll.
+baseurl: ""
+url: ""
+name: Zipac
+projects: jobplaceholder
+location: UK
+languages: HTML, CSS and Javascript
+github_username:  zipac
+
+
+# Build settings
+markdown: kramdown
