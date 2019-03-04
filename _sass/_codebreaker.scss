@@ -1,0 +1,20 @@
+// @name Codebreaker
+// @description Styles for the Codebreaker page
+
+.codebreaker {
+    background-color: var(--honey);
+    
+    #flagcheck{
+        width: 150px;
+        margin: 40vh auto;
+    }
+
+    #congratulations {
+        margin: 15vh auto;
+        font-weight: bold;
+        font-size: 5em;
+        max-width: 35em;
+        text-align: center;
+        color: var(--butter)
+    }
+}
