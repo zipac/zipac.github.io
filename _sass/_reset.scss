@@ -31,6 +31,9 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	display: grid;
+	min-height: 100vh;
+	grid-template-rows: min-content auto min-content;
 }
 ol, ul {
 	list-style: none;
