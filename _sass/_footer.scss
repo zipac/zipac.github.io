@@ -6,7 +6,7 @@
     padding: ($spacer * 2) $spacer;
     text-align: center;
     border-top: 1px solid #edefee;
-    background-color: #FBEEC1;
+    background-color: var(--honey);
 
     &__title {
         font-size: 1.2rem;
@@ -15,5 +15,13 @@
 
     &__subtitle {
         text-transform: capitalize;
+    }
+    a, a:hover {
+        background: none;
+    }
+
+    .logo {
+        max-height: 100px;
+        
     }
 }

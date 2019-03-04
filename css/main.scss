@@ -2,6 +2,12 @@
 # Main Sass file
 ---
 
+// Define reusable colours
+:root {
+    --butter: rgb(255, 165, 0);
+    --honey: #FBEEC1;
+}
+
 // Import all partials from _sass
 @import
     'reset',
@@ -9,5 +15,7 @@
     'typography',
     'header',
     'footer',
-    'resume'
+    'resume',
+    'aardvark',
+    'codebreaker'
 ;
