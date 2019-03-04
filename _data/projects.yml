@@ -4,6 +4,6 @@
     description: A web app that shows where in the UK it is reasonable to display bunting on a given date.
 
 -   title: Puzzler
-    url: localhost:4000/puzzler
+    url: /puzzler
     company: Ruby
     description: A text-based code-breaking puzzle game.
