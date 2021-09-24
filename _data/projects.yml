@@ -1,3 +1,8 @@
+-   title: Planestagram
+    url: https://zipac.github.io/FlickerVueApp
+    company: VueJS, API, CSS
+    description: A web app that allow a user to search through images from Flickr's public API and uses lazy loading to display them on the page.
+
 -   title: Bunting
     url: https://zipac.github.io/Bunting
     company: Javascript, HTML, CSS, Promises, async await
